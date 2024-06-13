@@ -7,7 +7,6 @@
 <h3>📌 포트폴리오 사이트: https://yuyu-site.netlify.app </h3>
 <br/>
 <br/>
-<br/>
 <h3>🛠️ Stacks - main</h3>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
