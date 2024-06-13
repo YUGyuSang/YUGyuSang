@@ -41,4 +41,6 @@
   <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
+<br/>
+![Koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=monet000414&show_icons=true&theme=radical)
 
