@@ -42,5 +42,5 @@
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 <br/>
-![yuyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUGyuSang&show_icons=true&theme=radical)
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUGyuSang&theme=dark&show_icons=true)</div>
 
