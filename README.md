@@ -1,8 +1,5 @@
 <h3>🎓 동양미래대학교 - 컴퓨터소프트웨어공학과</h3>
 <br/>
-<h3><a style="color: white;" href="https://www.notion.so/ea6551cbdf5c41f2b43a506edc950cab?pvs=4">📌 포트폴리오 사이트</a></h3>
-<br/>
-<br/>
 <h3>🛠️ Stacks - main</h3>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
