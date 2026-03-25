@@ -1,4 +1,4 @@
-<h3>🎓 동양미래대학교 - 컴퓨터소프트웨어공학과</h3>
+<!-- <h3>🎓 동양미래대학교 - 컴퓨터소프트웨어공학과</h3>
 <br/>
 <h3>🛠️ Stacks - main</h3>
 <div style="display:flex">
@@ -37,4 +37,4 @@
 <br/>
 <div>
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yugyusang&theme=dark&show_icons=true) -->
-</div>
+</div> -->
